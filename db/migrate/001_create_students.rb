@@ -9,6 +9,6 @@ class CreateStudents < ActiveRecord::Migration
     end
   end
 end
- 
+
 
   
